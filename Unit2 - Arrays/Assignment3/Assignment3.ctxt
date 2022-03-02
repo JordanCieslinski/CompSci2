@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Assignment3
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=double\ mean(int[])
+comment3.params=arr
+comment3.target=double\ median(int[])
+comment4.params=list
+comment4.target=void\ printAll(int[])
+comment5.params=
+comment5.target=int[]\ generateArray()
+numComments=6

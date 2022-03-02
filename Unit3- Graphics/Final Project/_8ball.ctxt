@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=_8ball
+comment1.params=g\ frame\ board
+comment1.target=void\ _8ball(java.awt.Graphics,\ DrawingPanel,\ java.awt.Image)
+numComments=2

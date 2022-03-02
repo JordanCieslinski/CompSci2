@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=q2exta
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=small\ big\ goal
+comment2.target=boolean\ makeBricks(int,\ int,\ int)
+numComments=3

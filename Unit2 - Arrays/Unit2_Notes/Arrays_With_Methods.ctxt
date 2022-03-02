@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Arrays_With_Methods
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ swap(int[])
+comment3.params=in
+comment3.target=java.lang.String[]\ getNames(java.util.Scanner)
+comment4.params=nums
+comment4.target=int\ findMinIndex(int[])
+numComments=5

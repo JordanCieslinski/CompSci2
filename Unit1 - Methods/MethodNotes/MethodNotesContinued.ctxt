@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MethodNotesContinued
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=in
+comment2.target=java.lang.String\ age(java.util.Scanner)
+comment3.params=console\ numTests
+comment3.target=double\ getAverage(java.util.Scanner,\ int)
+numComments=4

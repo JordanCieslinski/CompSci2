@@ -1,0 +1,62 @@
+switch (firstBall)
+        {
+            case "Yellow Stripe":
+            wantedPos[0] = 1095;
+            wantedPos[1] = 565;
+            arrPosofFirstBall = 1;
+            negOrPosX = 1;
+            negOrPosY = 1;
+
+            break;
+            case "Red Stripe":
+            wantedPos[0] = 185;
+            wantedPos[1] = 185;
+            arrPosofFirstBall = 2;
+            negOrPosX = -1;
+            negOrPosY = -1;
+
+            break;
+            case "Orange Stripe":
+            wantedPos[0] = 725;
+            wantedPos[1] = 345;
+            arrPosofFirstBall = 3;
+            negOrPosX = 1;
+            negOrPosY = -1;
+
+            break;
+            case "Purple Stripe":
+            wantedPos[0] = 665;
+            wantedPos[1] = 615;
+            arrPosofFirstBall = 4;
+            negOrPosX = 1;
+            negOrPosY = 1;
+
+            break;
+            case "Blue Stripe":
+            //# +5 ,-5 
+            wantedPos[0] = 145;
+            wantedPos[1] = 555;
+            arrPosofFirstBall = 5;
+            negOrPosX = -1;
+            negOrPosY = 1;
+
+            break;
+            case "Brown Stripe":
+            //# +2 ,-5 
+            wantedPos[0] = 288;
+            wantedPos[1] = 430;
+            arrPosofFirstBall = 6;
+            negOrPosX = -1;
+            negOrPosY = 1;
+
+            break;
+            case "Green Stripe":
+            //# +0 ,+5
+            wantedPos[0] = 630;
+            wantedPos[1] = 165;
+            arrPosofFirstBall = 7;
+            negOrPosX = 1;
+            negOrPosY = -1;
+
+            break;
+        }

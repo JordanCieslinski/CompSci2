@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Challenge
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=in
+comment2.target=void\ q1(java.util.Scanner)
+comment3.params=in
+comment3.target=void\ q2(java.util.Scanner)
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=q1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=scan
+comment10.target=void\ startMathConsole(java.util.Scanner)
+comment2.params=smallW\ smallL\ largeW\ largeL
+comment2.target=int\ rectangleCount(int,\ int,\ int,\ int)
+comment3.params=scan
+comment3.target=void\ testRectangleCount(java.util.Scanner)
+comment4.params=smallCube\ largeCube
+comment4.target=int\ cubeCount(int,\ int)
+comment5.params=num
+comment5.target=void\ printStars(int)
+comment6.params=name
+comment6.target=boolean\ validGamerTag(java.lang.String)
+comment7.params=n\ tag\ numXs
+comment7.target=java.lang.String\ makeGamerTag(java.lang.String,\ int,\ int)
+comment8.params=num1\ num2\ op
+comment8.target=double\ evaluateOperation(double,\ double,\ java.lang.String)
+comment9.params=eqn
+comment9.target=double\ parseExpression(java.lang.String)
+numComments=11
